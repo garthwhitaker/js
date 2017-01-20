@@ -40,6 +40,20 @@ class LinkedList {
 
     }
 
+    show() {
+        var currNode = this.head;
+        console.log(currNode);
+    }
+
+    advance(n) {
+        var currentNode = this.head;
+        while (n > 0) {
+            currentNode = currentNode.next;
+            n--;
+        }
+        return currNode;
+    }
+
     display() {
         var currNode = this.head;
         while (!(currNode.next == null)) {

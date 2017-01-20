@@ -10,3 +10,5 @@ cities.insert("Russellville", "Conway");
 cities.insert("Alma", "Russellville");
 
 cities.display();
+// cities.advance(1);
+// cities.show();
