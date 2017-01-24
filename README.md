@@ -35,3 +35,6 @@ racecaer is not a palindrome
 
 #Test
 Run ``` yarn test ```
+
+#Licence
+MIT
