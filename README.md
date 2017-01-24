@@ -7,6 +7,8 @@ Data structures implemented:
     queue 
     stack 
     linkedlist
+    doublylinkedlist
+    dictionary
 ```
 
 #Installation
