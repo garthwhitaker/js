@@ -12,8 +12,8 @@ Navigate to folder for datastructure you want to run
 
 Run ``` yarn start ```
 
-#Example (Stacks)
-Navigate to ```stacks```
+#Example (Stack)
+Navigate to ```stack```
 Run ``` yarn start ```
 
 ##Output
