@@ -18,12 +18,12 @@ Run ``` npm install yarn ``` (You can install yarn in other ways see [yarn insta
 Run ``` yarn install ```
 
 #Usage
-Navigate to folder for datastructure you want to run
+Navigate to folder for the data structure you want to run
 
 Run ``` yarn start ```
 
 #Example (Stack)
-Navigate to ```stack```
+Navigate to ```stack``` directory
 
 Run ``` yarn start ```
 
