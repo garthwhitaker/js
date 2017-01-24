@@ -1,6 +1,14 @@
 # Synopsis
 This codebase has samples of implementing certain data structures with javascript using Node.js with yarn.
 
+Data structures implemented:
+
+``` 
+    queue 
+    stack 
+    linkedlist
+```
+
 #Installation
 
 Run ``` npm install yarn ``` (You can install yarn in other ways see [yarn installation] (https://yarnpkg.com/en/docs/install))
